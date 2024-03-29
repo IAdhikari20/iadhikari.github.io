@@ -3,4 +3,5 @@ title: Ilina Adhikari
 #description: text below image
 show_downloads: true
 # remote_theme: al-folio
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: THEME-NAME
